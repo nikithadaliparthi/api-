@@ -13,6 +13,8 @@
  **LANGUAGE**
      : a language that a computer system understands and uses to interpret commands
 
+
+
 The **HYPERTEXT MARKUP LANGUAGE** or **HTML** is the standard *markup language* for documents designed to be displayed in a 'web browser'. 
 It is assisted by technologies such as *Cascading Style Sheets*(css) and scripting languages such as *Java Script*.
 
@@ -42,6 +44,7 @@ A form of HTML known as **HTML5**,is used to display video and audio,primarily u
 | DECEMBER 14,2017| HTML 5.2 as W3C recommendation    |
 
 ## HTML ELEMENTS
+>
 >An **HTML ELEMENT** is defined by a start tag, some content and an end tag.
 >The HTML element is everything from the start tag to the end tag:
 >
@@ -55,7 +58,10 @@ A form of HTML known as **HTML5**,is used to display video and audio,primarily u
 ![example html](https://user-images.githubusercontent.com/109893468/180767988-d80d41b9-677a-49fc-9dce-d03eb30c1cb7.png)
 
 
+
 >**NESTED HTML ELEMENTS**
+>
+>
 >HTML Elements can be nested that means that elements contain other elements.All HTML documents consists of nested HTML elements.Tags may also enclose further tag markup between the start and the end,including a mixture of tags and text.This indicates nested elements, as children of the parent element.The start tag may also include elemnt's *attributes* within the tag.
 
 
@@ -74,22 +80,28 @@ A form of HTML known as **HTML5**,is used to display video and audio,primarily u
 >The **p** element defines the paragraph.It has a start tag and an end tag as shown in the above example.
 
 **EMPTY HTML ELEMENTS**
+
+
 >HTML elements with no content are called as empty html elements.
 >The **br** tag defines a line break,and is an empty element without a closing tag.Let's see the example of br tag.
 
 ![br example](https://user-images.githubusercontent.com/109893468/180772684-9ea603bc-66fd-4afb-ba16-b7788dfb7647.png)
 
 ## TYPES OF HTML
+
 HTML can be divided into three categories:transitional,strict and frameset.These types apply to how HTML is used,not necessarily to the selection of tags.
 
 1.Transitional
-    **Transitional** is the most common type of HTML.It has a flexible syntax.Over the years,transitional html has been used without syntax restrictions,and browsers support a *best effort* approach to reading the tags.If tags are misspelled,the browsers do not correct the web developers' errors, and they display the content anyway.
+    
+   **Transitional** is the most common type of HTML.It has a flexible syntax.Over the years,transitional html has been used without syntax restrictions,and browsers support a *best effort* approach to reading the tags.If tags are misspelled,the browsers do not correct the web developers' errors, and they display the content anyway.
     
 2.Strict
-            The **Strict type**  of HTML is meant to return rules into HTML and make it more reliable.This style of HTML is important on phones,where the processing power may be limited.A clean and error free code helps to load pages faster.
+           
+   The **Strict type**  of HTML is meant to return rules into HTML and make it more reliable.This style of HTML is important on phones,where the processing power may be limited.A clean and error free code helps to load pages faster.
 
 3. Frameset
-           Finally, a **Frameset** allows web developers to create a patchwork of HTML documents where multiple documents can be connected into a single screen.This technique is often used to create a *menu system*.You click on menu item on the left screen, and only the right side of the screen re-loads.The menu stays in place.
+           
+      Finally, a **Frameset** allows web developers to create a patchwork of HTML documents where multiple documents can be connected into a single screen.This technique is often used to create a *menu system*.You click on menu item on the left screen, and only the right side of the screen re-loads.The menu stays in place.
            
 
 **HTML ATTRIBUTES**
