@@ -116,9 +116,11 @@ HTML can be divided into three categories:transitional,strict and frameset.These
            
 
 ## HTML ATTRIBUTES
-   
-           Most of the *attributes* of the elements are name-value pairs, seperated by "=" and written within the start tag of an element after the element's name.The value may be enclosed in single or double quotes,although values consisting of certain characters can be left unquoted in HTML(but not XHTML).There are some *attributes* that affect the element simply by their presence in the start tag of the element,like the **ismap** attribute for the **img** element.
-  There are several common attributes that may appear in many elements:
+  >
+  >
+  > Most of the *attributes* of the elements are name-value pairs, seperated by "=" and written within the start tag of an element after the element's name.The value may be enclosed in single or double quotes,although values consisting of certain characters can be left unquoted in HTML(but not XHTML).There are some *attributes* that affect the element simply by their presence in the start tag of the element,like the **ismap** attribute for the **img** element.
+ 
+ There are several common attributes that may appear in many elements:
   
  - The **id** attribute provides a document-wide unique identifier for an element.Appended to the  URL of the page,it provides a globally unique identifier for the element,typically a sub-section of the page.
  - The **class** attribute provides a way of classifying similar elements.This can be used for semantic or presentation purposes.
@@ -128,9 +130,10 @@ HTML can be divided into three categories:transitional,strict and frameset.These
           
   
   
- **CONCLUSION**
-              
-              To create a best HTML web page you  need HTML elements and attributes which helps us to design a page in a structure that you want.The design can include images,graohics,tables and many more aspects that are used in web page to represent certain information semantically.A good web page can provide more information using different tags like linking to other pages and listing the data in a synchornized way.All this data representation is done not only with HTML but it also includes "css" and "java script".All these together forms best results in the web page.
+ ## CONCLUSION
+ >
+  >            
+   >To create a best HTML web page you  need HTML elements and attributes which helps us to design a page in a structure that you want.The design can include images,graohics,tables and many more aspects that are used in web page to represent certain information semantically.A good web page can provide more information using different tags like linking to other pages and listing the data in a synchornized way.All this data representation is done not only with HTML but it also includes "css" and "java script".All these together forms best results in the web page.
 
 
 
