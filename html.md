@@ -49,6 +49,7 @@ A form of HTML known as **HTML5**,is used to display video and audio,primarily u
 
 ## HTML ELEMENTS
 >
+>
 >An **HTML ELEMENT** is defined by a start tag, some content and an end tag.
 >The HTML element is everything from the start tag to the end tag:
 >
@@ -69,7 +70,10 @@ A form of HTML known as **HTML5**,is used to display video and audio,primarily u
 >HTML Elements can be nested that means that elements contain other elements.All HTML documents consists of nested HTML elements.Tags may also enclose further tag markup between the start and the end,including a mixture of tags and text.This indicates nested elements, as children of the parent element.The start tag may also include elemnt's *attributes* within the tag.
 
 
+
+
 >##Example HTML document
+
 
 ![html example](https://user-images.githubusercontent.com/109893468/180769745-89357fa1-e18c-45e0-a331-2b92c6054975.png)
 
@@ -91,6 +95,9 @@ A form of HTML known as **HTML5**,is used to display video and audio,primarily u
 
 ![br example](https://user-images.githubusercontent.com/109893468/180772684-9ea603bc-66fd-4afb-ba16-b7788dfb7647.png)
 
+
+
+
 ## TYPES OF HTML
 
 HTML can be divided into three categories:transitional,strict and frameset.These types apply to how HTML is used,not necessarily to the selection of tags.
@@ -108,7 +115,7 @@ HTML can be divided into three categories:transitional,strict and frameset.These
       Finally, a **Frameset** allows web developers to create a patchwork of HTML documents where multiple documents can be connected into a single screen.This technique is often used to create a *menu system*.You click on menu item on the left screen, and only the right side of the screen re-loads.The menu stays in place.
            
 
-**HTML ATTRIBUTES**
+## HTML ATTRIBUTES
    
            Most of the *attributes* of the elements are name-value pairs, seperated by "=" and written within the start tag of an element after the element's name.The value may be enclosed in single or double quotes,although values consisting of certain characters can be left unquoted in HTML(but not XHTML).There are some *attributes* that affect the element simply by their presence in the start tag of the element,like the **ismap** attribute for the **img** element.
   There are several common attributes that may appear in many elements:
@@ -119,8 +126,12 @@ HTML can be divided into three categories:transitional,strict and frameset.These
  - The **title** attribute is used to attach subtextual explanation to an element.
  - The **lang** attribute identifies the natural language of the element's contents, which may be different from that of the rest of the document.
           
-    
-           
+  
+  
+ **CONCLUSION**
+              
+              To create a best HTML web page you  need HTML elements and attributes which helps us to design a page in a structure that you want.The design can include images,graohics,tables and many more aspects that are used in web page to represent certain information semantically.A good web page can provide more information using different tags like linking to other pages and listing the data in a synchornized way.All this data representation is done not only with HTML but it also includes "css" and "java script".All these together forms best results in the web page.
+
 
 
 
