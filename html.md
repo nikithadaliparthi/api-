@@ -2,9 +2,13 @@
 
 ## BASICS OF HTML
 
+
+
 ## DEFINITION OF HTML
  
- **HYPERTEXT**
+
+
+**HYPERTEXT**
       : text(often with embeds such as images,too),that is organized in order to connect related items
  
  **MARKUP**
